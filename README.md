@@ -6,4 +6,4 @@ HTML5, CSS3, GIF
 
 <h3> gif added</h3>
 
-![](Chat and meet.gif)
+![](chat.gif)
